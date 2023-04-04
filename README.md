@@ -1,5 +1,5 @@
 # DBMS2-2023-project
-Team members:
+<br>Team members:
 200103279 Kabilzhan Aruzhan
 210103214 Bissenov Raiymbek
 210103061 Kanet Nurgul
